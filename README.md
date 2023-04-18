@@ -7,7 +7,7 @@
 ## 🔨 
 
 🐍 Python
-- Machine Learning: BigQuery-ML, Scikit-learn, XGBoost
+- Machine Learning: Scikit-learn, XGBoost
 - Data Science: Pandas, Numpy, Geopandas, Duckdb, Polars, Pyspark, Apache Sedona
 - Demo: Matplotlib, Seaborn, Bokeh, Plotly, Streamlit
 
