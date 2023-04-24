@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Savo.  
+### Hi 👋, I'm Savo.  
 
 
 ## 🔗 Let's Connect!
