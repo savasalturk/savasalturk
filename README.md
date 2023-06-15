@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Savo.  
-
+I am a data scientist specializing in spatial data analysis, with a strong focus on utilizing geographicinformation systems (GIS) tools in conjunction with machine learning techniques. I have a proven track recordof working on projects that involve spatial data analysis, applying machine learning algorithms, anddeveloping regression models. I excel at problem-solving, collaborating in team environments, and have apassion for conducting research.
 
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/savasalturk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
