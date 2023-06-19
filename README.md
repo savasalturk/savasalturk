@@ -13,9 +13,9 @@ I am a data scientist specializing in spatial data analysis, with a strong focus
 
 
 SQL 
-- Database: PostgreSQL, MSSQL, POSTGIS
-- NoSQL: DynamoDB
-- Analytics: BigQuery, Amazon Redshift
+- POSTGIS
+- PostgreSQL, MSSQL, DynamoDB
+- BigQuery, Amazon Redshift
 
 JavaScript
 - React, OpenLayers, Leaflet
